@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_menu"
+        android:icon="@drawable/ic_restaurant_menu_black_24dp"
+        android:title="@string/menuText" />
+
+    <item
+        android:id="@+id/navigation_coupon"
+        android:icon="@drawable/icon_coupon"
+        android:title="@string/couponText" />
+
+    <item
+        android:id="@+id/navigation_shop"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/shopText" />
+
+    <item
+        android:id="@+id/navigation_state"
+        android:icon="@drawable/ic_show_chart_black_24dp"
+        android:title="@string/statisticsText" />
+
+</menu>

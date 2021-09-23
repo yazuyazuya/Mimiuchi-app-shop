@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">みみうち(店舗用)</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="menuText">メニュー</string>
+    <string name="couponText">クーポン</string>
+    <string name="shopText">店舗詳細</string>
+    <string name="statisticsText">統計情報</string>
+    <string name="menuText2">登録メニュー一覧</string>
+    <string name="couponText2">登録クーポン一覧</string>
+</resources>
